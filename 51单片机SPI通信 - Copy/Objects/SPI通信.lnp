@@ -1,0 +1,8 @@
+".\Objects\main.obj",
+".\Objects\DS1302.obj",
+".\Objects\LCD1602.obj",
+".\Objects\Delay.obj",
+".\Objects\Key.obj",
+".\Objects\Timer0.obj" 
+TO ".\Objects\SPI通信" 
+PRINT(".\Listings\SPI通信.m51") RAMSIZE(256) 
